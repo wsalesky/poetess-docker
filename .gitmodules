@@ -1,0 +1,6 @@
+[submodule "srophe"]
+	path = srophe
+	url = https://github.com/mandellc320/srophe
+[submodule "PoetessArchive"]
+	path = PoetessArchive
+	url = https://github.com/mandellc320/PoetessArchive
